@@ -1,6 +1,21 @@
 # Eprints Search Results Highlighter #
 by Michele Morelli (2019)
 
+.
+├── lib
+│   └── static
+│       ├── javascript
+│       │   ├── auto
+│       │   │   └── 90_highlighter.js
+│       │   ├── package.json
+│       │   └── test
+│       │       └── 90_highlighter.js
+│       └── style
+│           └── auto
+│               └── highlighter.css
+└── README.md
+
+
 This small plugin highlights the search paramaters in Eprints' search results page.
 
 ### For the tests ###
