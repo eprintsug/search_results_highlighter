@@ -1,0 +1,11 @@
+{
+    "name": "search_results_highlighter",
+    "version": "1.0.0",
+    "description": "Tests for the Eprints search results highlighter",
+    "devDependencies": {
+        "tape" : "~2.13.3"
+        },
+    "scripts": {
+        "test": "node test/*.js"
+    }
+}
