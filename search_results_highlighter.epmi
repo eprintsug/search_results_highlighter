@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://localhost:8080/id/epm/search_results_highlighter'>
+  <epmid>search_results_highlighter</epmid>
+  <documents>
+    <document>
+      <files>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>static/javascript/package.json</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>b3be3188560f421f72607485717ea5e0</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>260</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>static/javascript/auto/90_highlighter.js</filename>
+          <mime_type>text/html</mime_type>
+          <hash>bab8668cff6083233f09a97a3f9df173</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>3193</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>static/javascript/test/90_highlighter.js</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>27cf0886a3f4615f7b7edb5f615444ca</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>372</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>static/style/auto/highlighter.css</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>8c03442af24fafd818837e43792bbd1a</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>82</filesize>
+        </file>
+      </files>
+      <mime_type>text/plain</mime_type>
+      <format>text</format>
+      <main>static/style/auto/highlighter.css</main>
+      <content>install</content>
+    </document>
+  </documents>
+  <version>1.0.0</version>
+  <creators>
+    <item>
+      <name>
+        <family>Name</family>
+        <given>Your</given>
+      </name>
+      <id>you@email.address</id>
+    </item>
+  </creators>
+  <datestamp>2019-01-28 00:04:55</datestamp>
+  <title>Search Results Highlighter</title>
+  <description>This is the description.</description>
+  <requirements>The following modules are required: X, Y, Z</requirements>
+  <home_page>http://github.com/your/project</home_page>
+</epm>
