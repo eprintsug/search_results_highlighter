@@ -1,6 +1,7 @@
 # Eprints Search Results Highlighter #
 by Michele Morelli (2019)
 
+![Eprints Search Results Highlighter](img/search_highlighter.png)
 .  
 ├── lib  
 │   └── static  
