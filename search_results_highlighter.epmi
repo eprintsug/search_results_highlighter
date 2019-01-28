@@ -17,9 +17,9 @@
           <datasetid>document</datasetid>
           <filename>static/javascript/auto/90_highlighter.js</filename>
           <mime_type>text/html</mime_type>
-          <hash>ad9be2ebb3cb63de9f16cbeb35064113</hash>
+          <hash>c26b6c9caca60779ab88720a7358c222</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3241</filesize>
+          <filesize>3837</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -62,7 +62,7 @@
       <id>you@email.address</id>
     </item>
   </creators>
-  <datestamp>2019-01-28 11:32:33</datestamp>
+  <datestamp>2019-01-28 13:39:52</datestamp>
   <title>Search Results Highlighter</title>
   <description>This is the description.</description>
   <requirements>The following modules are required: X, Y, Z</requirements>
