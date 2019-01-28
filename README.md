@@ -13,7 +13,8 @@ by Michele Morelli (2019)
 │       └── style  
 │           └── auto  
 │               └── highlighter.css  
-└── README.md  
+├── README.md  
+└── search_results_highlighter.epmi 
 
 
 This simple plugin highlights the search paramaters in Eprints' search results page.
