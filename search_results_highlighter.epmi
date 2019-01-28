@@ -17,9 +17,9 @@
           <datasetid>document</datasetid>
           <filename>static/javascript/auto/90_highlighter.js</filename>
           <mime_type>text/html</mime_type>
-          <hash>bab8668cff6083233f09a97a3f9df173</hash>
+          <hash>ad9be2ebb3cb63de9f16cbeb35064113</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3193</filesize>
+          <filesize>3241</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -33,14 +33,22 @@
           <datasetid>document</datasetid>
           <filename>static/style/auto/highlighter.css</filename>
           <mime_type>text/plain</mime_type>
-          <hash>8c03442af24fafd818837e43792bbd1a</hash>
+          <hash>801d8814c8c4bc469ec9d4ceadebb372</hash>
           <hash_type>MD5</hash_type>
-          <filesize>82</filesize>
+          <filesize>136</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>epm/search_results_highlighter/img/search_highlighter.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>fa8aecad472d12087a99922847b29958</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>99087</filesize>
         </file>
       </files>
-      <mime_type>text/plain</mime_type>
-      <format>text</format>
-      <main>static/style/auto/highlighter.css</main>
+      <mime_type>image/png</mime_type>
+      <format>image</format>
+      <main>epm/search_results_highlighter/img/search_highlighter.png</main>
       <content>install</content>
     </document>
   </documents>
@@ -54,7 +62,7 @@
       <id>you@email.address</id>
     </item>
   </creators>
-  <datestamp>2019-01-28 00:19:18</datestamp>
+  <datestamp>2019-01-28 11:32:33</datestamp>
   <title>Search Results Highlighter</title>
   <description>This is the description.</description>
   <requirements>The following modules are required: X, Y, Z</requirements>
