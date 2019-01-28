@@ -1,4 +1,6 @@
 .highlighted_search_result{
     background-color: yellow;
     font-weight: 700;
+    border: 1px solid orange;
+    color: darkmagenta;
 }
