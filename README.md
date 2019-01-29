@@ -28,10 +28,12 @@ template (default.xml):
 ```xml
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 ```
+IE is not currently supported.
 
 ### For the tests ###
 I used Tape and Node.js for unit testing 
 
+If you want to run the tests, you will need to install node.
 If installing Nodejs is needed (on CentOS):
 ```bash
 $sudo yum install nodejs
