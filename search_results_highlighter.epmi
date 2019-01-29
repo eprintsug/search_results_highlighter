@@ -17,9 +17,9 @@
           <datasetid>document</datasetid>
           <filename>static/javascript/auto/90_highlighter.js</filename>
           <mime_type>text/html</mime_type>
-          <hash>44e05d34a6c834531331b4b4cb7a7c06</hash>
+          <hash>97b0bff883f644ae15f24cb4c1c4a9c9</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3879</filesize>
+          <filesize>4333</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -41,9 +41,9 @@
           <datasetid>document</datasetid>
           <filename>epm/search_results_highlighter/img/search_highlighter.png</filename>
           <mime_type>image/png</mime_type>
-          <hash>fa8aecad472d12087a99922847b29958</hash>
+          <hash>c1fd97fb0a73160a43b0bd82e5505186</hash>
           <hash_type>MD5</hash_type>
-          <filesize>99087</filesize>
+          <filesize>89319</filesize>
         </file>
       </files>
       <mime_type>image/png</mime_type>
@@ -62,7 +62,7 @@
       <id>you@email.address</id>
     </item>
   </creators>
-  <datestamp>2019-01-28 22:48:21</datestamp>
+  <datestamp>2019-01-29 11:32:16</datestamp>
   <title>Search Results Highlighter</title>
   <description>This is the description.</description>
   <requirements>The following modules are required: X, Y, Z</requirements>
