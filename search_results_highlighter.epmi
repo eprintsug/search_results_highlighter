@@ -7,27 +7,11 @@
       <files>
         <file>
           <datasetid>document</datasetid>
-          <filename>static/javascript/package.json</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>b3be3188560f421f72607485717ea5e0</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>260</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>static/javascript/auto/90_highlighter.js</filename>
+          <filename>static/javascript/auto/91_highlighter_mmu.js</filename>
           <mime_type>text/html</mime_type>
-          <hash>97b0bff883f644ae15f24cb4c1c4a9c9</hash>
+          <hash>15af3843d68db0cb272138d3a149d9d5</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4333</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>static/javascript/test/90_highlighter.js</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>27cf0886a3f4615f7b7edb5f615444ca</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>372</filesize>
+          <filesize>11099</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -52,7 +36,7 @@
       <content>install</content>
     </document>
   </documents>
-  <version>1.0.0</version>
+  <version>1.2.0</version>
   <creators>
     <item>
       <name>
@@ -62,7 +46,7 @@
       <id>you@email.address</id>
     </item>
   </creators>
-  <datestamp>2019-01-29 11:32:16</datestamp>
+  <datestamp>2019-03-19 19:17:27</datestamp>
   <title>Search Results Highlighter</title>
   <description>This is the description.</description>
   <requirements>The following modules are required: X, Y, Z</requirements>
