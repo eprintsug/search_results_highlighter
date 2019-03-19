@@ -2,18 +2,22 @@
 by Michele Morelli (2019)
 
 ![Eprints Search Results Highlighter](img/search_highlighter.png)
-.  
-├── lib  
-│   └── static  
-│       ├── javascript  
-│       │   ├── auto  
-│       │   │   └── 90_highlighter.js  
-│       └── style  
-│           └── auto  
-│               └── highlighter.css  
-├── README.md  
-└── search_results_highlighter.epmi 
-
+<pre>
+.
+├── img
+│   └── search_highlighter.png
+├── lib
+│   └── static
+│       ├── javascript
+│       │   └── auto
+│       │       └── 91_highlighter.js
+│       └── style
+│           └── auto
+│               └── highlighter.css
+├── LICENSE
+├── README.md
+└── search_results_highlighter.epmi
+</pre>
 
 This simple plugin highlights the search paramaters in Eprints' search results page and abstract page. It is designed to work with both the simple search and the advanced search.
 
