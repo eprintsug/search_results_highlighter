@@ -30,27 +30,5 @@ template (default.xml):
 ```
 IE is not currently supported.
 
-### For the tests ###
-I used Tape and Node.js for unit testing 
-
-If you want to run the tests, you will need to install node.
-If installing Nodejs is needed (on CentOS):
-```bash
-$sudo yum install nodejs
-```
-Then:
-```bash
-$cd lib/static/javascript
-```
-
-Creating the Nodejs project the first time that you run the test:
-```bash
-npm install
-```
-
-To actually run the tests:
-```bash
-$node test/node 90_highlighter.js
-```
 
 Enjoy!
