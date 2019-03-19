@@ -7,11 +7,19 @@
       <files>
         <file>
           <datasetid>document</datasetid>
-          <filename>static/javascript/auto/91_highlighter_mmu.js</filename>
+          <filename>static/javascript/auto/91_highlighter.js</filename>
           <mime_type>text/html</mime_type>
-          <hash>15af3843d68db0cb272138d3a149d9d5</hash>
+          <hash>655bcce0f12b100aa1515d2948909c9b</hash>
           <hash_type>MD5</hash_type>
-          <filesize>11099</filesize>
+          <filesize>5817</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>static/javascript/auto/90_highlight_with_no_regex.js</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>a7548df07f4bc3063dbdd759ccea28ba</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>5282</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -46,7 +54,7 @@
       <id>you@email.address</id>
     </item>
   </creators>
-  <datestamp>2019-03-19 19:40:44</datestamp>
+  <datestamp>2019-03-19 19:58:43</datestamp>
   <title>Search Results Highlighter</title>
   <description>This is the description.</description>
   <requirements>The following modules are required: X, Y, Z</requirements>
