@@ -8,9 +8,6 @@ by Michele Morelli (2019)
 │       ├── javascript  
 │       │   ├── auto  
 │       │   │   └── 90_highlighter.js  
-│       │   ├── package.json  
-│       │   └── test  
-│       │       └── 90_highlighter.js  
 │       └── style  
 │           └── auto  
 │               └── highlighter.css  
@@ -18,7 +15,7 @@ by Michele Morelli (2019)
 └── search_results_highlighter.epmi 
 
 
-This simple plugin highlights the search paramaters in Eprints' search results page.
+This simple plugin highlights the search paramaters in Eprints' search results page and abstract page. It is designed to work with both the simple search and the advanced search.
 
 It requires jQuery to run properly, so if jQuery is not already in use in 
 your repository, you will need to add it to your repository somehow. 
