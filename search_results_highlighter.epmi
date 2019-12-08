@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <epm xmlns='http://eprints.org/ep2/data/2.0' id='http://template.ulcc.ac.uk/id/epm/search_results_highlighter'>
   <epmid>search_results_highlighter</epmid>
-  <uri>http://localhost:8080/id/epm/search_results_highlighter</uri>
+  <uri>http://template.ulcc.ac.uk/id/epm/search_results_highlighter</uri>
   <documents>
     <document>
       <files>
@@ -33,9 +33,9 @@
           <datasetid>document</datasetid>
           <filename>epm/search_results_highlighter/cfg/static/javascript/auto/90_highlighter.js</filename>
           <mime_type>text/plain</mime_type>
-          <hash>6c72d204611224534de7c174b1296f76</hash>
+          <hash>56931f4e1fc4d1e1c4b0d826dacfbc61</hash>
           <hash_type>MD5</hash_type>
-          <filesize>87</filesize>
+          <filesize>36</filesize>
         </file>
       </files>
       <mime_type>text/plain</mime_type>
@@ -54,7 +54,7 @@
       <id>you@email.address</id>
     </item>
   </creators>
-  <datestamp>2019-12-08 18:17:44</datestamp>
+  <datestamp>2019-12-08 18:40:31</datestamp>
   <title>Search Results Highlighter</title>
   <description>This is the description.</description>
   <requirements>The following modules are required: X, Y, Z</requirements>
